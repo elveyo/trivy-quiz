@@ -30,7 +30,7 @@ export const rotate = keyframes`
 `
 export const QuizBody = styled.div`
   width: 60%;
-  min-height: 92%;
+  min-height: 88%;
   padding: 10px;
   display: flex;
   align-items: center;
