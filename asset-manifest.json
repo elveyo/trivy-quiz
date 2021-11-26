@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/trivy-quiz/static/css/main.2ae47eeb.chunk.css",
-    "main.js": "/trivy-quiz/static/js/main.73e62ac8.chunk.js",
-    "main.js.map": "/trivy-quiz/static/js/main.73e62ac8.chunk.js.map",
+    "main.js": "/trivy-quiz/static/js/main.b71fa3bf.chunk.js",
+    "main.js.map": "/trivy-quiz/static/js/main.b71fa3bf.chunk.js.map",
     "runtime-main.js": "/trivy-quiz/static/js/runtime-main.ef1aa401.js",
     "runtime-main.js.map": "/trivy-quiz/static/js/runtime-main.ef1aa401.js.map",
     "static/js/2.24c16b9d.chunk.js": "/trivy-quiz/static/js/2.24c16b9d.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.ef1aa401.js",
     "static/js/2.24c16b9d.chunk.js",
     "static/css/main.2ae47eeb.chunk.css",
-    "static/js/main.73e62ac8.chunk.js"
+    "static/js/main.b71fa3bf.chunk.js"
   ]
 }
